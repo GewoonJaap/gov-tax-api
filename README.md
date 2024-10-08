@@ -1,4 +1,5 @@
 # Dutch Tax API Cloudflare Worker
+[![Deploy Cloudflare Worker](https://github.com/GewoonJaap/gov-tax-api/actions/workflows/deploy.yml/badge.svg)](https://github.com/GewoonJaap/gov-tax-api/actions/workflows/deploy.yml)
 ![207815865-9b471652-5723-4d35-8847-dce0fb9701eb](https://github.com/user-attachments/assets/c4eb5fe1-c956-4c6a-a5f6-9755eab8a7ba)
 
 This Cloudflare Worker scrapes tax data from the Dutch Tax Authority website and provides it as a JSON response via a REST API.
